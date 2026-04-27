@@ -34,6 +34,7 @@ cp -r what-if-phone-booth /your/project/.claude/skills/
 ### 方式二：自然语言触发
 
 直接说：
+- "启动，如果电话亭"
 - "如果电话亭，景德镇陶瓷，森林夜游"
 - "帮我组合一下"
 - "嫁接" / "文旅创新组合"
